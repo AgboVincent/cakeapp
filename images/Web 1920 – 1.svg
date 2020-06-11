@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3900" height="3318" viewBox="0 0 3900 3318">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="3900" height="3318"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="3900" height="3318" fill="#7620c1"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#3d9245" stroke="#707070" stroke-width="1">
+      <rect width="3900" height="1812" stroke="none"/>
+      <rect x="0.5" y="0.5" width="3899" height="1811" fill="none"/>
+    </g>
+    <text id="Member_Registration" data-name="Member Registration" transform="translate(127 224)" fill="#0f0d0d" font-size="178" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Member Registration</tspan></text>
+  </g>
+</svg>
